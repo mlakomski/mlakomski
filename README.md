@@ -2,7 +2,6 @@
 
 
 
-  🔭 I’m currently working on Pixel game.
-  🌱 I’m currently learning Python.
+  🔭 I’m currently working on Pixel game and learning Python.🌱
 
 
