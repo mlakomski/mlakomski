@@ -2,6 +2,6 @@
 
 
 
-  🔭 I’m currently working on Pixel game and learning Python.🌱
+  🔭 I’m currently working on a Pixel game and learning Python.🌱
 
 
